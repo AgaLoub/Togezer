@@ -1,0 +1,12 @@
+.btn-access {
+  background-color: #1783BD;
+  color: white;
+  margin-top: 20px;
+  padding: 15px 25px;
+
+&:hover {
+  color: #1783BD;
+  background-color: white;
+  border-color: #1783BD;
+}
+}
