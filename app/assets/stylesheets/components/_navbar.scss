@@ -24,7 +24,7 @@
 
 
 .navbar-wagon p {
-  color: white;
+  color: black;
 }
 
 /* Logo */
@@ -38,8 +38,9 @@
   height: 15px;
   width: 15px;
   border-radius: 50%;
-  color: white;
-  background-image: asset-url('french.png');
+  background-color: transparent;
+  color: black;
+  // background-image: asset-url('french.png');
   background-size: cover;
   background-position: center;
 }
